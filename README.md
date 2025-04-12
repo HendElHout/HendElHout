@@ -1,61 +1,67 @@
-# Hend Elhout - Data Science Portfolio
+# 👋 Hi, I'm Hend Elhout
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hend-elhout)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:hendelhout1@gmail.com)
+🎓 Master's Student in Software Engineering and Technology  
+🏫 Egyptian Chinese University | 3rd Year  
+📍 Based in Egypt | Open to Remote & Part-Time Opportunities
 
-## About Me
+---
 
-A passionate and driven individual with a background in Engineering and currently pursuing a Master's in Software Engineering and Technology at the Egyptian Chinese University Cairo (expected graduation: 2027). My focus lies in the field of Data Science, demonstrated through my work experience and projects. I am eager to apply my skills in data analysis, machine learning, and data visualization to solve real-world problems.
+## 💡 About Me
 
-## Skills
+I'm a passionate and driven software engineering student with a strong foundation in data science, machine learning, and intelligent systems. I enjoy turning raw data into actionable insights, solving real-world problems through clean and efficient code, and contributing to innovative projects that create real impact.
 
-**Programming Languages:** Python, MySQL, C++, C#
+With hands-on experience in Python, SQL, and key data analysis libraries, I have worked on several projects ranging from app data analysis to employee management systems and AI-driven methodologies.
 
-**Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+---
 
-**Tools:** MySQL, Scikit-learn, GitHub, NodeRed, Power BI, Matplotlib, Plotly, Dash Dashboards
+## 🛠️ Skills & Technologies
 
-**Data Visualization:** Power BI, Matplotlib, Plotly, Dash Dashboards
+**Languages:** Python, SQL, C++, C#  
+**Data Science:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
+**Visualization:** Power BI, Dash, Plotly  
+**Databases:** MySQL  
+**Tools:** GitHub, Node-RED  
+**Concepts:** Data Preprocessing, OOP, API Handling, Statistics Fundamentals
 
-**Statistics Fundamentals:** OOP, files and API
+---
 
-## Work Experience
+## 📂 Featured Projects
 
-**DIGITAL EGYPT PIONEERS INITIATIVE, AI Data Science Scholarship - AMIT Branch - Cairo** (Oct 2024 - Present)
+- **📱 Play Store Data Cleaning & Insights** (2025.02)  
+  Cleaned and preprocessed real-world app data from Google Play Store. Handled missing values, outliers, and inconsistencies while extracting key business insights using visualizations.
 
-* Developed strong foundational knowledge in Data Science methodologies, Python for Data Science, AI & Development, Python Project for Data Science, Databases and SQL for Data Science with Python, Data Analysis with Python, Data Visualization, Machine Learning with Python, MLOps Tools, MLflow and Hugging Face, Capstone Project, and Prompt Engineering.
+- **📊 SQL Data Analysis System** (2024.12)  
+  Developed a structured SQL-based business analytics database. Designed queries for real-world scenarios covering joins, aggregations, filters, and reporting.
 
-## Projects
+- **🧑‍💼 Employee Management System** (2024.12)  
+  Built in Python to manage, update, and store employee data using CSV files. Features include CRUD operations and unique ID-based search.
 
-**Data Preprocessing** (Feb 2025)
+- **🤖 AI Data Methodology Pipeline** (2024.11)  
+  Developed an AI-based methodology for problem characterization, data preparation, feature engineering, model training, evaluation, and deployment.
 
-* Performed data cleaning and preprocessing on the Play Store apps dataset.
-* Addressed missing values, outliers, and other issues while extracting valuable insights.
-* (Likely link to your project repository will go here)
+---
 
-**Data Analysis using SQL** (Dec 2024)
+## 🌱 Currently Exploring
 
-* Analyzed a database with data analysis using SQL.
-* Developed a structured schema that simulates a real-world business scenario, focusing on sales and production data.
-* Wrote and tested SQL queries for tasks such as data retrieval, filtering, aggregations, joins, and advanced analysis.
-* (Likely link to your project repository will go here)
+- Advanced database testing with tools like SQLancer  
+- Building real-time dashboards with Dash and Power BI  
+- Expanding my knowledge in model deployment and automation pipelines
 
-**Employee Management System** (Dec 2024)
+---
 
-* Developed a Python-based application for employee data management for company reorganization efficiency.
-* Allowed users to perform essential operations like adding a new employee, viewing all employees, updating employee details, deleting an employee.
-* Enabled saving and retrieving employee data using a CSV file.
-* (Likely link to your project repository will go here)
+## 📈 GitHub Stats
 
-**Data Methodology** (Nov 2024)
+![Hend's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HendElHout&show_icons=true&theme=tokyonight)
 
-* Focused on Problem Characterization, Data Understanding, Data Collection and Preparation, Determine Model's Features and Train Model, Model Evaluation, Model Deployment, Iterate and Adjust the AI Model, Feedback, Expansion and Adaptation.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HendElHout&layout=compact&theme=tokyonight)
 
-## Courses
+---
 
-* Understanding Data Science DataCamp (2025/01)
-* Python Programming Bootcamp 365DataScience (2024/11)
-* Python Basic MaharaTech-ITL (2024/01)
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hend-elhout-32253b313/)  
+- 💻 [GitHub](https://github.com/HendElHout)  
+
 
 ## Connect with Me
 
