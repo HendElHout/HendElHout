@@ -25,21 +25,6 @@ With hands-on experience in Python, SQL, and key data analysis libraries, I have
 
 ---
 
-## 📂 Featured Projects
-
-- **📱 Play Store Data Cleaning & Insights** (2025.02)  
-  Cleaned and preprocessed real-world app data from Google Play Store. Handled missing values, outliers, and inconsistencies while extracting key business insights using visualizations.
-
-- **📊 SQL Data Analysis System** (2024.12)  
-  Developed a structured SQL-based business analytics database. Designed queries for real-world scenarios covering joins, aggregations, filters, and reporting.
-
-- **🧑‍💼 Employee Management System** (2024.12)  
-  Built in Python to manage, update, and store employee data using CSV files. Features include CRUD operations and unique ID-based search.
-
-- **🤖 AI Data Methodology Pipeline** (2024.11)  
-  Developed an AI-based methodology for problem characterization, data preparation, feature engineering, model training, evaluation, and deployment.
-
----
 
 ## 🌱 Currently Exploring
 
