@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hendelhout&label=Profile%20views&color=0e75b6&style=flat" alt="hendelhout" /> </p>
 
+- 🎓 Master's Student in **Software Engineering and Technology**
+
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP**
+
+- 🏫 Egyptian Chinese University | **3rd Year**
+
+- 📍 Based in Egypt | Open to **Remote Opportunities**
 
 - 💬 Ask me about **EDA, Data Analysis, Machine Learning**
 
